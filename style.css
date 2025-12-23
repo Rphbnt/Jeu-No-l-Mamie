@@ -46,3 +46,8 @@ h1 {
   background: white;
   color: #0a3d62;
 }
+html, body {
+  touch-action: manipulation;
+}
+
+
